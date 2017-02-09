@@ -1,5 +1,5 @@
 # EXILE-FACEWEAR-PATCH
-Solves facewear (balclava, glasses) disappear after logout/login
+Solves facewear (balaclava, glasses) disappear after logout/login
 
 - # Installation
 
