@@ -1,5 +1,5 @@
 
 if (hasInterface) then {
-    []execVM "loadGoggles.sqf"
+    []execVM "loadGoggles.sqf";
 
 };
